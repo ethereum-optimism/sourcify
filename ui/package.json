@@ -42,7 +42,7 @@
     "typescript": "^3.5.3",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.8.0",
+    "webpack-dev-server": "^5.0.4",
     "webpack-merge": "^4.2.2"
   }
 }
